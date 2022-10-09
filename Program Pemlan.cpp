@@ -136,7 +136,7 @@ main ()
 	
 	else if (bil == 8){
 		printf("=====================================\n");
-		printf("Program C Menghitung Nilai Rata-rata\n");
+		printf("Menghitung Nilai Rata-rata\n");
   		printf("=====================================\n");
   	printf("Masukkan banyak data yang akan dihitung: ");
  	scanf("%d", &banyak);
